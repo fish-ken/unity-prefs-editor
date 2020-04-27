@@ -1,5 +1,5 @@
 # unity-prefs-editor
-Unity Player/Editor Prefs Editor
+Show all Player/Editor Prefs
 
 ![](./screenshot-0.PNG)
 
