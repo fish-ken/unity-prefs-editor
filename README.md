@@ -1,5 +1,5 @@
 # unity-prefs-editor
-Show,Edit,Delete all Player/Editor Prefs
+Show, Edit, Delete Player/Editor Prefs
 
 ![](./screenshot-0.PNG)
 
